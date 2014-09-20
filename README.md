@@ -1,7 +1,7 @@
   
-**Important Note:** *Kindly visit the below link for an updated report for this Course Project Assessment. 
-[Link to my Simulation Report](http://rpubs.com/bram/StatInf-Proj1-Simulation)
-[Link to my Inference Report](http://rpubs.com/bram/StatInf-Proj2-Inference)
+**Important Note:** *Kindly visit the below link for an updated report for this Course Project Assessment.   
+[Link to my Simulation Report](http://rpubs.com/bram/StatInf-Proj1-Simulation)  
+[Link to my Inference Report](http://rpubs.com/bram/BasicInference)  
 [Link to my Reproducible Research Repository](https://github.com/buva-datascience/Statistical-Inference)*  
   
 ## Introduction  

@@ -119,7 +119,7 @@ Since, we consider the distribution of averages of exponentials, the standard de
 
 The confidence interval is given by `r mean(row_means) + c(-1, 1) * 1.96 * sd(row_means)`  
   
-**Important Note:** *Kindly visit the below link for the updated report. The plots are available in the figures folder.  
+**Important Note:** *Kindly visit the below link for the updated report. 
 rpubs  --> [http://rpubs.com/bram/StatInf-Proj1-Simulation](http://rpubs.com/bram/StatInf-Proj1-Simulation)   
 github --> [https://github.com/buva-datascience/Statistical-Inference](https://github.com/buva-datascience/Statistical-Inference)*      
 
