@@ -1,4 +1,5 @@
-  
+## Cheaters in Coursera use your work. Maybe you should move into a private repo in [BitBucket](https://bitbucket.org)
+
 **Important Note:** *Kindly visit the below link for an updated report for this Course Project Assessment.   
 [Link to my Simulation Report](http://rpubs.com/bram/StatInf-Proj1-Simulation)  
 [Link to my Inference Report](http://rpubs.com/bram/BasicInference)  
